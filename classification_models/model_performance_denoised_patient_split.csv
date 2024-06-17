@@ -1,0 +1,15 @@
+Model,Test Loss,Test Accuracy (%)
+resnet18_single_channel_testing,6.139675197024662,46.5524
+resnet18_3stacked_testing,4.697494682734692,46.5524
+resnet50_3stacked_testing,8.496399849286187,46.5524
+resnet34_single_channel_testing,3.0321223488847355,46.5524
+alexnet_single_channel_testing,1.2322053009517238,0.0
+resnet50_single_channel_testing,4.8464280473391,46.5524
+vit_3stacked_testing,2.695382510741655,46.5218
+maxvit_single_channel_testing,3.026662395306286,46.5524
+efficientnet_3stacked_testing,1.4095655135667504,46.5524
+vit_single_channel_testing,3.6177806694185293,46.5524
+efficientnet_single_channel_testing,1.2331005030599287,46.5626
+resnet34_3stacked_testing,3.911992778182839,46.5524
+alexnet_3stacked_testing,1.1961459222495532,0.0
+maxvit_3stacked_testing,2.63196299094608,46.5524

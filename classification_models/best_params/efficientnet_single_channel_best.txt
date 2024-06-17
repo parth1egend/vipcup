@@ -1,0 +1,4 @@
+Best hyperparameters:
+{'learning_rate': 0.001, 'batch_size': 64, 'optimizer': 'Adam'}
+Best Validation Loss: 0.013829371055188739
+Best Accuracy: 99.63968957871397

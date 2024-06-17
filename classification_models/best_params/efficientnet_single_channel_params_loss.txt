@@ -1,0 +1,96 @@
+Learning Rate: 1e-05, Batch Size: 16, Optimizer: Adam
+Final Validation Loss: 0.7117645359885137
+Final Validation Accuracy: 73.75277161862527
+
+Learning Rate: 1e-05, Batch Size: 16, Optimizer: SGD
+Final Validation Loss: 6.087117201473126
+Final Validation Accuracy: 47.810421286031044
+
+Learning Rate: 1e-05, Batch Size: 32, Optimizer: Adam
+Final Validation Loss: 0.8430077009349071
+Final Validation Accuracy: 70.37139689578714
+
+Learning Rate: 1e-05, Batch Size: 32, Optimizer: SGD
+Final Validation Loss: 6.533022435435699
+Final Validation Accuracy: 38.08203991130821
+
+Learning Rate: 1e-05, Batch Size: 64, Optimizer: Adam
+Final Validation Loss: 1.001607976440844
+Final Validation Accuracy: 69.59534368070953
+
+Learning Rate: 1e-05, Batch Size: 64, Optimizer: SGD
+Final Validation Loss: 6.672037235649092
+Final Validation Accuracy: 24.196230598669622
+
+Learning Rate: 0.0001, Batch Size: 16, Optimizer: Adam
+Final Validation Loss: 0.07151868818165487
+Final Validation Accuracy: 98.08758314855876
+
+Learning Rate: 0.0001, Batch Size: 16, Optimizer: SGD
+Final Validation Loss: 1.1572737720218835
+Final Validation Accuracy: 57.12305986696231
+
+Learning Rate: 0.0001, Batch Size: 32, Optimizer: Adam
+Final Validation Loss: 0.09345065450663378
+Final Validation Accuracy: 97.36696230598669
+
+Learning Rate: 0.0001, Batch Size: 32, Optimizer: SGD
+Final Validation Loss: 2.36097651838992
+Final Validation Accuracy: 45.648558758314856
+
+Learning Rate: 0.0001, Batch Size: 64, Optimizer: Adam
+Final Validation Loss: 0.2731141454298586
+Final Validation Accuracy: 92.01773835920177
+
+Learning Rate: 0.0001, Batch Size: 64, Optimizer: SGD
+Final Validation Loss: 4.793675369804027
+Final Validation Accuracy: 50.609756097560975
+
+Learning Rate: 0.001, Batch Size: 16, Optimizer: Adam
+Final Validation Loss: 0.059533490790997956
+Final Validation Accuracy: 98.42017738359202
+
+Learning Rate: 0.001, Batch Size: 16, Optimizer: SGD
+Final Validation Loss: 0.466720953666318
+Final Validation Accuracy: 84.14634146341463
+
+Learning Rate: 0.001, Batch Size: 32, Optimizer: Adam
+Final Validation Loss: 0.015985256842492152
+Final Validation Accuracy: 99.39024390243902
+
+Learning Rate: 0.001, Batch Size: 32, Optimizer: SGD
+Final Validation Loss: 0.9073456770300601
+Final Validation Accuracy: 60.97560975609756
+
+Learning Rate: 0.001, Batch Size: 64, Optimizer: Adam
+Final Validation Loss: 0.013829371055188739
+Final Validation Accuracy: 99.63968957871397
+
+Learning Rate: 0.001, Batch Size: 64, Optimizer: SGD
+Final Validation Loss: 0.7978800882785654
+Final Validation Accuracy: 63.331485587583146
+
+Learning Rate: 0.01, Batch Size: 16, Optimizer: Adam
+Final Validation Loss: 0.17741658476887565
+Final Validation Accuracy: 94.65077605321508
+
+Learning Rate: 0.01, Batch Size: 16, Optimizer: SGD
+Final Validation Loss: 0.02490504286746921
+Final Validation Accuracy: 99.27937915742794
+
+Learning Rate: 0.01, Batch Size: 32, Optimizer: Adam
+Final Validation Loss: 1.0951599753616654
+Final Validation Accuracy: 78.76940133037694
+
+Learning Rate: 0.01, Batch Size: 32, Optimizer: SGD
+Final Validation Loss: 0.06586623482445891
+Final Validation Accuracy: 97.92128603104213
+
+Learning Rate: 0.01, Batch Size: 64, Optimizer: Adam
+Final Validation Loss: 0.031054270629713103
+Final Validation Accuracy: 98.83592017738358
+
+Learning Rate: 0.01, Batch Size: 64, Optimizer: SGD
+Final Validation Loss: 0.2295983990121575
+Final Validation Accuracy: 92.76607538802661
+

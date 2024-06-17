@@ -1,0 +1,7 @@
+Model,Test Loss,Test Accuracy (%)
+resnet18_single_channel_testing,4.768273542373814,46.5524
+resnet34_single_channel_testing,6.270755951157921,46.5524
+alexnet_single_channel_testing,1.2388784019667876,0.0
+resnet50_single_channel_testing,3.4600322574980464,46.5524
+maxvit_single_channel_testing,2.897425653933886,46.5116
+efficientnet_single_channel_testing,2.090810933360478,46.5524

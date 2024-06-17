@@ -1,0 +1,2 @@
+echo 'export PATH=/raid/miniconda/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc

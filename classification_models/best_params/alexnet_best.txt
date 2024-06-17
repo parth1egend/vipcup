@@ -1,0 +1,6 @@
+Best Hyperparameters:
+Learning Rate: 0.0001
+Batch Size: 32
+Optimizer: Adam
+Loss: 0.012485961640729133
+Accuracy: 99.55654101995566

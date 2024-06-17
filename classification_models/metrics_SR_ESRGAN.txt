@@ -1,0 +1,7 @@
+Metrics for resnet18:
+Accuracy: 0.4655
+Precision: 0.2328
+Recall (Sensitivity): 0.5000
+Specificity: 0.0000
+F1 Score: 0.3177
+

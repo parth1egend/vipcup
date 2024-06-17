@@ -1,0 +1,28 @@
+Metrics for resnet50:
+Accuracy: 0.4655
+Precision: 0.2328
+Recall (Sensitivity): 0.5000
+Specificity: 0.0000
+F1 Score: 0.3177
+
+Metrics for vit:
+Accuracy: 0.4655
+Precision: 0.2328
+Recall (Sensitivity): 0.5000
+Specificity: 0.0000
+F1 Score: 0.3177
+
+Metrics for maxvit:
+Accuracy: 0.4655
+Precision: 0.2328
+Recall (Sensitivity): 0.5000
+Specificity: 0.0000
+F1 Score: 0.3177
+
+Metrics for efficientnet:
+Accuracy: 0.4656
+Precision: 0.7328
+Recall (Sensitivity): 0.5001
+Specificity: 0.0002
+F1 Score: 0.3179
+

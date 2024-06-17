@@ -1,0 +1,168 @@
+Current Validation Loss: 0.12677085049684778
+Current hyperparameters: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'Adam'}
+
+Current Accuracy: 95.62084257206209
+Best hyperparameters till now: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.12677085049684778
+Best Accuracy till now: 95.62084257206209
+Current Validation Loss: 6.873985881551671
+Current hyperparameters: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'SGD'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.12677085049684778
+Best Accuracy till now: 95.62084257206209
+Current Validation Loss: 0.2595787535683807
+Current hyperparameters: {'learning_rate': 1e-05, 'batch_size': 32, 'optimizer': 'Adam'}
+
+Current Accuracy: 90.49334811529934
+Best hyperparameters till now: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.12677085049684778
+Best Accuracy till now: 95.62084257206209
+Current Validation Loss: 6.898551958891875
+Current hyperparameters: {'learning_rate': 1e-05, 'batch_size': 32, 'optimizer': 'SGD'}
+
+Current Accuracy: 0.0
+Best hyperparameters till now: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.12677085049684778
+Best Accuracy till now: 95.62084257206209
+Current Validation Loss: 0.4921412166629292
+Current hyperparameters: {'learning_rate': 1e-05, 'batch_size': 64, 'optimizer': 'Adam'}
+
+Current Accuracy: 79.90576496674058
+Best hyperparameters till now: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.12677085049684778
+Best Accuracy till now: 95.62084257206209
+Current Validation Loss: 6.891509882890993
+Current hyperparameters: {'learning_rate': 1e-05, 'batch_size': 64, 'optimizer': 'SGD'}
+
+Current Accuracy: 0.0
+Best hyperparameters till now: {'learning_rate': 1e-05, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.12677085049684778
+Best Accuracy till now: 95.62084257206209
+Current Validation Loss: 0.021067287509830127
+Current hyperparameters: {'learning_rate': 0.0001, 'batch_size': 16, 'optimizer': 'Adam'}
+
+Current Accuracy: 99.4179600886918
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.021067287509830127
+Best Accuracy till now: 99.4179600886918
+Current Validation Loss: 1.0724922386875702
+Current hyperparameters: {'learning_rate': 0.0001, 'batch_size': 16, 'optimizer': 'SGD'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 16, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.021067287509830127
+Best Accuracy till now: 99.4179600886918
+Current Validation Loss: 0.012485961640729133
+Current hyperparameters: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+
+Current Accuracy: 99.55654101995566
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 6.647917873314902
+Current hyperparameters: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'SGD'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 0.018456433270903027
+Current hyperparameters: {'learning_rate': 0.0001, 'batch_size': 64, 'optimizer': 'Adam'}
+
+Current Accuracy: 99.27937915742794
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 6.792994857627378
+Current hyperparameters: {'learning_rate': 0.0001, 'batch_size': 64, 'optimizer': 'SGD'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0655971810452953
+Current hyperparameters: {'learning_rate': 0.001, 'batch_size': 16, 'optimizer': 'Adam'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0116454732920273
+Current hyperparameters: {'learning_rate': 0.001, 'batch_size': 16, 'optimizer': 'SGD'}
+
+Current Accuracy: 51.108647450110865
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0651561381282932
+Current hyperparameters: {'learning_rate': 0.001, 'batch_size': 32, 'optimizer': 'Adam'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0435082471027077
+Current hyperparameters: {'learning_rate': 0.001, 'batch_size': 32, 'optimizer': 'SGD'}
+
+Current Accuracy: 50.85920177383592
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0659796961659602
+Current hyperparameters: {'learning_rate': 0.001, 'batch_size': 64, 'optimizer': 'Adam'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0536238161264662
+Current hyperparameters: {'learning_rate': 0.001, 'batch_size': 64, 'optimizer': 'SGD'}
+
+Current Accuracy: 45.8980044345898
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0651644378437963
+Current hyperparameters: {'learning_rate': 0.01, 'batch_size': 16, 'optimizer': 'Adam'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 0.18269182174175383
+Current hyperparameters: {'learning_rate': 0.01, 'batch_size': 16, 'optimizer': 'SGD'}
+
+Current Accuracy: 93.54212860310422
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0657163411709263
+Current hyperparameters: {'learning_rate': 0.01, 'batch_size': 32, 'optimizer': 'Adam'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 0.9258500781661919
+Current hyperparameters: {'learning_rate': 0.01, 'batch_size': 32, 'optimizer': 'SGD'}
+
+Current Accuracy: 54.8780487804878
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 1.0690299476065286
+Current hyperparameters: {'learning_rate': 0.01, 'batch_size': 64, 'optimizer': 'Adam'}
+
+Current Accuracy: 45.648558758314856
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
+Current Validation Loss: 0.9340452662857038
+Current hyperparameters: {'learning_rate': 0.01, 'batch_size': 64, 'optimizer': 'SGD'}
+
+Current Accuracy: 51.63525498891352
+Best hyperparameters till now: {'learning_rate': 0.0001, 'batch_size': 32, 'optimizer': 'Adam'}
+Best Validation Loss till now: 0.012485961640729133
+Best Accuracy till now: 99.55654101995566
